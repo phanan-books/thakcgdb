@@ -1,0 +1,1 @@
+_Tất cả những tên người, tên đất, tên nước, tên trang web, địa chỉ email vân vân, tóm lại là tên riêng trong cuốn sách này (bắt đầu từ trang này cho đến ba chữ “cười ré lên”) đều là tưởng tượng mà ra. Mọi sự trùng hợp nếu có chắc là do vô tình mà có, độc giả không nên quá nghiêm nhặt làm gì._

@@ -1,0 +1,13 @@
+sup {
+    font-size: .8em !important;
+    margin-left: 5px;
+}
+
+blockquote {
+    font-size: .9em !important;
+    border-left-width: 0 !important;
+}
+
+p {
+    text-align: justify;
+}

@@ -1,0 +1,18 @@
+{
+    "title": "Trời hôm ấy không có gì đặc biệt",
+    "author": "Phan An",
+    "language": "vi",
+    "structure": {
+        "readme": "intro.md"
+    },
+    "pdf": {
+        "fontFamily": "Palatino Linotype",
+        "paperSize": "a5",
+        "margin": {
+            "top": 72,
+            "left": 56,
+            "right": 56,
+            "bottom": 72
+        }
+    }
+}
