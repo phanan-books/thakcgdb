@@ -1,0 +1,9 @@
+#! /bin/bash
+
+name='thakcgdb'
+formats=(pdf mobi epub)
+
+for i in "${formats[@]}"
+do
+  gitbook $i ./ downloads/$name.$i
+done
