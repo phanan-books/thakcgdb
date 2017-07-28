@@ -2,7 +2,7 @@
 
 Tác giả: [Phan An](https://phanan.net)  
 Minh họa: Phan An  
-Thiết kế bìa: Đỗ Hữu Chí
+Thiết kế bìa: Quỳnh Phương
 
 ---
 
